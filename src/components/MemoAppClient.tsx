@@ -135,7 +135,7 @@ export default function MemoAppClient({ initialMemos }: MemoAppClientProps) {
                 className="text-2xl font-bold text-gray-900"
                 suppressHydrationWarning
               >
-                📝 메모 앱
+                📝 Memo App
               </h1>
             </div>
           </div>
@@ -157,7 +157,7 @@ export default function MemoAppClient({ initialMemos }: MemoAppClientProps) {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
               <div className="flex-shrink-0">
-                <h1 className="text-2xl font-bold text-gray-900">📝 메모 앱</h1>
+                <h1 className="text-2xl font-bold text-gray-900">📝 Memo App</h1>
               </div>
             </div>
 
