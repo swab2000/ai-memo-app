@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "supabase": {
+      "type": "http",
+      "url": "https://mcp.supabase.com/mcp?project_ref=ajbzzrzswdwkfluczmhv&features=account%2Cdatabase%2Cdocs%2Cdevelopment"
+    },
+    "playwright-mcp": {
+      "command": "npx",
+      "args": ["@playwright/mcp@0.0.32"]
+    },
+    "context7": {
+      "command": "npx",
+      "args": ["-y", "@upstash/context7-mcp"]
+    }
+  }
+}
